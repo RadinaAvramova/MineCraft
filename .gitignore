@@ -1,0 +1,27 @@
+#Visual Studio
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.filters
+*.users
+*.user
+*.dll
+.vs 
+
+# Visual Studio Code
+.vscode/
+
+
+# Builds
+bin/
+Makefile
+build/
+
+# Manually Added
+CMakeFiles/
+cmake_install.cmake 
+CMakeCache.txt
+mc-one-week
+libglad.a
+development_notes.txt
